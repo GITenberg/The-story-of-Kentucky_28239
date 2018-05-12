@@ -1,0 +1,25 @@
+_repo: The-story-of-Kentucky_28239
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eubank, Rice S.
+    gutenberg_agent_id: '33218'
+    url: http://www.gutenberg.org/2009/agents/33218
+description: ''
+gutenberg_issued: '2009-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28239'
+  lccn: '13025971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- History'
+- !lcc 'F396'
+title: The story of Kentucky
+url: http://www.gutenberg.org/ebooks/28239
